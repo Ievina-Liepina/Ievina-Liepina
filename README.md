@@ -6,7 +6,13 @@ I am a Software Developer from Latvia.
 
    📫 How to reach me:  
    
+   e-mail:
+   
    ievina.liepina99@gmail.com
+   
+   <img src="https://github.com/soroushchehresa/github-readme-linkedin/blob/master/linkedin-github.png" alt="LinkedIn, GitHub logo" width="60" height="30" />
+   
+   https://www.linkedin.com/in/ievina-liepina/
 
 ---
 
